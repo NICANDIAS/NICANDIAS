@@ -24,10 +24,8 @@
 ## 📌 Featured Projects
 - **[SOCaaS for SMEs](#)** – Built a SOC-as-a-Service using **Wazuh + ELK** with curated alerts, Sysmon logging, and compliance dashboards.  
 - **[Phishing Detection with NLP + SVM](#)** – MSc research project achieving **97.46% accuracy** in detecting phishing emails.  
-- **[Blue Team Labs](#)** – Top 45 in UK, Top 2 worldwide in active defenders.  
+- **[Blue Team Labs](https://blueteamlabs.online/public/user/913433ff92b0b28f6b1dac)** – Top 45 in UK, Top 2 worldwide in active defenders.  
 - **[Security Automation Scripts](#)** – Python utilities for log enrichment, IOC lookups, and automated triage.  
-
-*(links `#` → replace with your repo links)*  
 
 ---
 
