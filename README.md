@@ -59,4 +59,4 @@
 ---
 
 📫 **Connect with me**:  
-[LinkedIn](#) • [Email](mailto:ekun.abdulhakeem@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/abdulhakeem-ekun-mbcs-b92863137?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9hV6ZLhCSyy1empo9g7XRA%3D%3D) • [Email](mailto:ekun.abdulhakeem@gmail.com)
